@@ -1,2 +1,2 @@
 # SRFE-YOLO
-The required documents will be uploaded as requested after the paper has been accepted.
+All the datasets used in this study are publicly accessible. We have provided detailed descriptions and corresponding citations in the manuscript.
