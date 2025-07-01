@@ -1,0 +1,9 @@
+train: /root/part2/datasets/RDD2022_split_resize/images/train  # train images (relative to 'path') 4 images
+val: /root/part2/datasets/RDD2022_split_resize/images/val  # val images (relative to 'path') 4 images
+test: /root/part2/datasets/RDD2022_split_resize/images/test
+nc: 4
+sr: False
+# class names
+# 分别是横向、纵向、鳄鱼以及坑洼四种裂缝
+names: ['D00', 'D10', 'D20', 'D40']
+

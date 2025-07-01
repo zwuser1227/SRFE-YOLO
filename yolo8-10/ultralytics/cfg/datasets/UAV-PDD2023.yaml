@@ -1,0 +1,9 @@
+train: /root/part2/datasets/UAV-PDD2023_split/images/train  # train images (relative to 'path') 4 images
+val: /root/part2/datasets/UAV-PDD2023_split/images/val  # val images (relative to 'path') 4 images
+test: /root/part2/datasets/UAV-PDD2023_split/images/test
+nc: 6
+sr: False
+# class names
+# 分别是横向、纵向、鳄鱼以及坑洼四种裂缝
+names: ['Alligator crack', 'Longitudinal crack', 'Oblique crack', 'Pothole','Repair','Transverse crack']
+
